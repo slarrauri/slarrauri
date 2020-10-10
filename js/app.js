@@ -10,7 +10,7 @@ function slarrauri(){
     console.log('Oh! LALALA!!! Señor Frances');
     randomAvatar();
     
-    if (window.location.pathname == '/random_simpsons_chapter.html') {
+    if (window.location.pathname == '/simpsons.html') {
         randomSimpsonsChapter();
     }
     document.getElementById("slarrauri-random-simpson-chapter-other").onclick 
