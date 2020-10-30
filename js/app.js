@@ -138,12 +138,13 @@ function randomSimpsonsChapter(){
  */
 function tegCounter(){
     console.log('Teg Counter'); 
-    var attackerInput = document.getElementById("attacker-input");
-    var defenderInput = document.getElementById("defender-input");
-    var attackerAdd   = document.getElementById("attacker-add");
-    var attackerSub   = document.getElementById("attacker-sub");
-    var defenderAdd   = document.getElementById("defender-add");
-    var defenderSub   = document.getElementById("defender-sub");
+    var attackerInput   = document.getElementById("attacker-input");
+    var defenderInput   = document.getElementById("defender-input");
+    var attackerAdd     = document.getElementById("attacker-add");
+    var attackerSub     = document.getElementById("attacker-sub");
+    var defenderAdd     = document.getElementById("defender-add");
+    var defenderSub     = document.getElementById("defender-sub");
+    var tegCounterReset = document.getElementById("teg-counter-reset");
     
     var totalAttacker = 0;
     var totalDefender = 0;
@@ -152,44 +153,61 @@ function tegCounter(){
     attackerInput.onchange  = function() {
         totalAttacker = attackerInput.value;
         console.log(totalAttacker);
+        checkDouble();    
     };  
 
     //On Change Input ger number from defender
     defenderInput.onchange  = function() {
         totalDefender = defenderInput.value;
         console.log(totalDefender);
+        checkDouble();    
+    };
+
+    //Reset
+    tegCounterReset.onclick = function() {
+        totalAttacker = 0;
+        attackerInput.value = totalAttacker;
+        totalDefender =0;
+        defenderInput.value = totalDefender;
+        attackerInput.classList.remove("is-valid");  
     };
 
     //ADD one to attacker total
     attackerAdd.onclick = function() {
         totalAttacker = parseInt(totalAttacker) + 1;
         attackerInput.value = totalAttacker;
+        checkDouble();    
     };
 
     //SUB one to attacker total
     attackerSub.onclick = function() {
         totalAttacker = parseInt(totalAttacker) - 1;
         attackerInput.value = totalAttacker;
+        checkDouble();    
     };
 
     //ADD one to defender total
     defenderAdd.onclick = function() {
         totalDefender = parseInt(totalDefender) + 1;
         defenderInput.value = totalDefender;
+        checkDouble();    
     };
 
     //SUB one to defender total
     defenderSub.onclick = function() {
         totalDefender = parseInt(totalDefender) - 1;
         defenderInput.value = totalDefender;
+        checkDouble();     
     };
-    
-    
-    //document.getElementById("defender-input").onchange  = function() {getTotal()};
-    
 
-
-    
-   
+    function checkDouble(){
+        attackerInput.classList.remove("is-valid");
+        if (parseInt(totalAttacker) >= parseInt(totalDefender) * 2) {
+            attackerInput.classList.add("is-valid");
+        }
+        if (parseInt(totalDefender) < 3) {
+            attackerInput.classList.remove("is-valid");
+        }
+    }
 }
 //------------------------------------------------------------------------------
