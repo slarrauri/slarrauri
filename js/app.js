@@ -1,23 +1,42 @@
 window.onload = function() {
     slarrauri();
-  };
+};
 
-
+//------------------------------------------------------------------------------
 /**
  * Init App
  */
 function slarrauri(){
     console.log('Oh! LALALA!!! Señor Frances');
-    randomAvatar();
     
-    if (window.location.pathname == '/simpsons.html') {
-        randomSimpsonsChapter();
+    //ROUTE MAIN
+    if (window.location.pathname == '/') {
+        randomAvatar();        
     }
-    document.getElementById("slarrauri-random-simpson-chapter-other").onclick 
-        = function() {randomSimpsonsChapter()};
+
+    //ROUTE MAIN
+    if (window.location.pathname == '/index.html') {
+        randomAvatar();
+    }
+    
+    // ROUTE simpsons     
+    if (window.location.pathname == '/simpsons.html') {
+        randomAvatar();
+        document.getElementById("slarrauri-random-simpson-chapter-other").onclick 
+        = function() {
+            randomSimpsonsChapter();
+        };
+    }
+    
+    // ROUTE Teg 
+    if (window.location.pathname == '/teg_counter.html') {
+        tegCounter();
+    }
    
 }
+//------------------------------------------------------------------------------
 
+//------------------------------------------------------------------------------
 /**
  * Randomly get the avatar image.
  */
@@ -43,7 +62,10 @@ function randomAvatar(){
     
 
 }
+//------------------------------------------------------------------------------
 
+
+//------------------------------------------------------------------------------
 /**
  * Random Simpsons Chapter
  */
@@ -108,3 +130,48 @@ function randomSimpsonsChapter(){
         = "<b>Temporada:</b> "+season+" <b>Capítulo:</b> "+chapter+"";
 
 }
+//------------------------------------------------------------------------------
+
+//------------------------------------------------------------------------------
+/**
+ * teg Counter
+ */
+function tegCounter(){
+    console.log('Teg Counter'); 
+    var attackerInput = document.getElementById("attacker-input");
+    var defenderInput = document.getElementById("defender-input");
+    var attackerAdd   = document.getElementById("attacker-add");
+    var attackerSub   = document.getElementById("attacker-sub");
+    var defenderadd   = document.getElementById("defender-add");
+    var defenderSub   = document.getElementById("defender-sub");
+    
+    var totalAttacker = 0;
+    var totalDefender = 0;
+
+    //On Change Input ger number from attaker
+    attackerInput.onchange  = function() {
+        totalAttacker = attackerInput.value;
+        console.log(totalAttacker);
+    };  
+
+    //On Change Input ger number from defender
+    defenderInput.onchange  = function() {
+        totalDefender = defenderInput.value;
+        console.log(totalDefender);
+    };
+
+    //ADD one to attacker total
+    attackerAdd.onclick = function() {
+        totalAttacker = parseInt(totalAttacker) + 1;
+        attackerInput.value = totalAttacker;
+    };
+    
+    
+    //document.getElementById("defender-input").onchange  = function() {getTotal()};
+    
+
+
+    
+   
+}
+//------------------------------------------------------------------------------
