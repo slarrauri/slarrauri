@@ -7,7 +7,7 @@ window.onload = function() {
  * Init App
  */
 function slarrauri(){
-    console.log('Oh! LALALA!!! Señor Frances');
+    console.log('Oh! LALALA!!! Señor Frances2');
     
     //ROUTE MAIN
     if (window.location.pathname == '/') {
