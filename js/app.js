@@ -7,7 +7,7 @@ window.onload = function() {
  * Init App
  */
 function slarrauri(){
-    console.log('Oh! LALALA!!! Señor Frances2');
+    console.log('Oh! LALALA!!! Señor Frances');
     
     //ROUTE MAIN
     if (window.location.pathname == '/') {
@@ -142,7 +142,7 @@ function tegCounter(){
     var defenderInput = document.getElementById("defender-input");
     var attackerAdd   = document.getElementById("attacker-add");
     var attackerSub   = document.getElementById("attacker-sub");
-    var defenderadd   = document.getElementById("defender-add");
+    var defenderAdd   = document.getElementById("defender-add");
     var defenderSub   = document.getElementById("defender-sub");
     
     var totalAttacker = 0;
@@ -164,6 +164,24 @@ function tegCounter(){
     attackerAdd.onclick = function() {
         totalAttacker = parseInt(totalAttacker) + 1;
         attackerInput.value = totalAttacker;
+    };
+
+    //SUB one to attacker total
+    attackerSub.onclick = function() {
+        totalAttacker = parseInt(totalAttacker) - 1;
+        attackerInput.value = totalAttacker;
+    };
+
+    //ADD one to defender total
+    defenderAdd.onclick = function() {
+        totalDefender = parseInt(totalDefender) + 1;
+        defenderInput.value = totalDefender;
+    };
+
+    //SUB one to defender total
+    defenderSub.onclick = function() {
+        totalDefender = parseInt(totalDefender) - 1;
+        defenderInput.value = totalDefender;
     };
     
     
