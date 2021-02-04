@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1. Arquitectura, Directorios y Archivos](1-arquitectura-directorios-y-archivos)
+[1. Arquitectura, Directorios y Archivos](/README.md#1-arquitectura-directorios-y-archivos)
 
-[2. Guia de estilos y convenciones](2-guia-de-estilos-y-convenciones)
+[2. Guia de estilos y convenciones](./README.md#2-guia-de-estilos-y-convenciones)
 
 ## 1. Arquitectura, Directorios y Archivos
 
