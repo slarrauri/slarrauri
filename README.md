@@ -15,37 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1. Arquitectura, Directorios y Archivos](1)
+[1. Arquitectura, Directorios y Archivos](1-arquitectura-directorios-y-archivos)
 
-[2. Guia de estilos y convenciones](2)
+[2. Guia de estilos y convenciones](2-guia-de-estilos-y-convenciones)
 
-## 1. Arquitectura, Directorios y Archivos{1}
+## 1. Arquitectura, Directorios y Archivos
 
-l
-l
-l
-l
-l
-l
-l
-l
-l
 
-l
-l
-l
-l
-l
-l
-
-l
-l
-l
-l
-l
-l
-l
-l
-
-l
-## 2. Guia de estilos y convenciones[2]
+## 2. Guia de estilos y convenciones
