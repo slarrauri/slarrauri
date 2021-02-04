@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [2. Guia de estilos y convenciones](2)
 
-## 1. Arquitectura, Directorios y Archivos [#1]
+## 1. Arquitectura, Directorios y Archivos
 
 l
 l
@@ -48,4 +48,4 @@ l
 l
 
 l
-## 2. Guia de estilos y convenciones [#2]
+## 2. Guia de estilos y convenciones
