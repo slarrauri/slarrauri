@@ -15,11 +15,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1. Arquitectura, Directorios y Archivos]('1')
+[1. Arquitectura, Directorios y Archivos](1)
 
-[2. Guia de estilos y convenciones]('2')
+[2. Guia de estilos y convenciones]'2)
 
 ## 1. Arquitectura, Directorios y Archivos [#1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 2. Guia de estilos y convenciones [#2]
