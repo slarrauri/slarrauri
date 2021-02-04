@@ -21,34 +21,31 @@ Here are some ideas to get you started:
 
 ## 1. Arquitectura, Directorios y Archivos [#1]
 
+l
+l
+l
+l
+l
+l
+l
+l
+l
 
+l
+l
+l
+l
+l
+l
 
+l
+l
+l
+l
+l
+l
+l
+l
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+l
 ## 2. Guia de estilos y convenciones [#2]
