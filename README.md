@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Flutter Dart Apps
-- 🌱 I’m currently learning Solidity and DApps Web3.0
+- 🔭 I’m currently working on Flutter/Dart Apps
+- 🌱 I’m currently learning Solidity, DApps, Blockchain and Web3.0
 <!--
 **slarrauri/slarrauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
