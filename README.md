@@ -3,7 +3,7 @@
 Sebastian Larrauri Here! 
 
 - 🔭 I’m currently working on Flutter/Dart Apps
-- 🌱 I’m currently learning Solidity, DApps, Blockchain and Web3.0
+- 🌱 I’m currently learning Blockchain, Solidity, DApps,  and Web3.0
 - 🤔 I’m looking for help with The [Flutter Developers Guide](https://github.com/slarrauri/flutter-developers-guide)
 - 💬 Ask me about Tech Industry, Flutter Dart develompment, BlockChain Development. 
 - 📫 How to reach me: @Slarrauri
