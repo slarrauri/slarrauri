@@ -3,22 +3,21 @@
 
 # Project information
 site_name: Dart & Flutter
-site_url: https://slarrauri.github.io/testing-mkdocs-material/
+site_url: https://slarrauri.github.io/slarrauri/
 site_author: Sebastian Larrauri
 site_description: >-
-  Aprende a programar utilizando el lenguaje dart 
-  conocerás como crear aplicaciones para multiples dispositivos; 
-  Web, Mobile, Desktop y IOT, 
-  como también programas del lado del servidor 
-  como APIs, desarrollo backend y Aplicaciones Frontend con Flutter. 
+  Bienvenido a mi sitio web personal, Mi nombre es Sebastian Larrauri.
+  en el mismo podras encontrar
+  articulos sobre el mundo tech, acceso a mi Curriculums Vitae y
+  mis proyectos open source; siendo el principal DartyFlutter.dev 
 
 # Repository
-repo_name: slarrauri/testing-mkdocs-material
-repo_url: https://github.com/slarrauri/testing-mkdocs-material
+repo_name: slarrauri/slarrauri
+repo_url: https://github.com/slarrauri/slarrauri
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Sebastian Larrauri
+copyright: Copyright &copy; 2000 - 2022 Sebastian Larrauri
 
 # Configuration
 theme:
