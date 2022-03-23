@@ -9,7 +9,7 @@ Sebastian Larrauri Here!
 - ⚡ Fun fact: Fan of the Birra! 
 - ❤️ Love Tech Industry
 
-
+todo add links
 <!--
 **slarrauri/slarrauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
