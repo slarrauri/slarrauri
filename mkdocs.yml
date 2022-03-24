@@ -133,13 +133,14 @@ nav:
   - Home: index.md
   - Curriculum:
     - Castellano: cv_castellano.md
-  - Changelog: CHANGELOG.md
+  - Proyectos: proyectos.md
 #  - Blog:
-#    - tutoriales/index.md
+#    - blog/index.md
 #    - 2022:
 #      - blog/2021/the-past-present-and-future.md
 #      - blog/2021/excluding-content-from-search.md
 #      - blog/2021/search-better-faster-smaller.md
+  - Changelog: CHANGELOG.md
 #  - Reference:
 #    - reference/index.md
 #    - Design:
