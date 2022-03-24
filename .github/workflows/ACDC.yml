@@ -1,4 +1,3 @@
-# CI/CD File
 name: ACDC
 on:
   push:
