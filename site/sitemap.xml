@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
-         <lastmod>2022-03-21</lastmod>
+         <loc>https://slarrauri.github.io/slarrauri/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.github.io/slarrauri/changelog/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.github.io/slarrauri/cv_castellano/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.github.io/slarrauri/proyectos/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.github.io/slarrauri/blog/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.github.io/slarrauri/blog/2021/excluding-content-from-search/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.github.io/slarrauri/blog/2021/search-better-faster-smaller/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.github.io/slarrauri/blog/2021/the-past-present-and-future/</loc>
+         <lastmod>2022-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
