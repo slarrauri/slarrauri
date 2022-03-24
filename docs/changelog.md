@@ -1,7 +1,7 @@
 ---
 template: overrides/main.html
 ---
-
+!!! danger "Pagina en Construcción"
 # Changelog
 
 ## Slarrauri Web Site
