@@ -2,14 +2,14 @@
 
 
 # Project information
-site_name: Dart & Flutter
+site_name: Slarrauri
 site_url: https://slarrauri.github.io/slarrauri/
 site_author: Sebastian Larrauri
 site_description: >-
-  Bienvenido a mi sitio web personal, Mi nombre es Sebastian Larrauri.
-  en el mismo podras encontrar
-  articulos sobre el mundo tech, acceso a mi Curriculums Vitae y
-  mis proyectos open source; siendo el principal DartyFlutter.dev 
+  Bienvenido a mi sitio web personal, Mi nombre es Sebastian Larraur,
+  y en esta web podras encontrar: articulos sobre el mundo tech, 
+  acceso a mi Curriculums Vitae y mis proyectos open source; 
+  siendo el principal DartyFlutter.dev 
 
 # Repository
 repo_name: slarrauri/slarrauri
@@ -53,8 +53,8 @@ theme:
     # - toc.integrate
   palette:
     - scheme: slate
-      primary: light blue
-      accent: light blue
+      primary: amber
+      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -131,19 +131,10 @@ markdown_extensions:
 # NAVIGATION
 nav:
   - Home: index.md
-  - Comencemos:
-    - Comencemos: comencemos.md
-    - Dart: dart.md
-    - Flutter: flutter.md
-    - Contenidos: contenidos.md
-    - Changelog: changelog.md
-  - Dart:
-    - dart/index.md
-  - Flutter:
-    - flutter/index.md
-  - Git: git.md
-  - Scrum: scrum.md
-#  - Tutoriales:
+  - Curriculum:
+    - Castellano: cv_castellano.md
+  - Changelog: CHANGELOG.md
+#  - Blog:
 #    - tutoriales/index.md
 #    - 2022:
 #      - blog/2021/the-past-present-and-future.md
