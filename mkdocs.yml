@@ -2,23 +2,22 @@
 
 
 # Project information
-site_name: Dart & Flutter
-site_url: https://slarrauri.github.io/testing-mkdocs-material/
+site_name: Slarrauri
+site_url: https://slarrauri.github.io/slarrauri/
 site_author: Sebastian Larrauri
 site_description: >-
-  Aprende a programar utilizando el lenguaje dart 
-  conocerás como crear aplicaciones para multiples dispositivos; 
-  Web, Mobile, Desktop y IOT, 
-  como también programas del lado del servidor 
-  como APIs, desarrollo backend y Aplicaciones Frontend con Flutter. 
+  Bienvenido a mi sitio web personal, Mi nombre es Sebastian Larraur,
+  y en esta web podras encontrar: articulos sobre el mundo tech, 
+  acceso a mi Curriculums Vitae y mis proyectos open source; 
+  siendo el principal DartyFlutter.dev 
 
 # Repository
-repo_name: slarrauri/testing-mkdocs-material
-repo_url: https://github.com/slarrauri/testing-mkdocs-material
+repo_name: slarrauri/slarrauri
+repo_url: https://github.com/slarrauri/slarrauri
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Sebastian Larrauri
+copyright: Copyright &copy; 2000 - 2022 Sebastian Larrauri
 
 # Configuration
 theme:
@@ -54,16 +53,16 @@ theme:
     # - toc.integrate
   palette:
     - scheme: slate
-      primary: light blue
-      accent: light blue
+      primary: amber
+      accent: amber
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Switch to light mode
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to dark mode
   font:
     text: Roboto
@@ -132,24 +131,16 @@ markdown_extensions:
 # NAVIGATION
 nav:
   - Home: index.md
-  - Comencemos:
-    - Comencemos: comencemos.md
-    - Dart: dart.md
-    - Flutter: flutter.md
-    - Contenidos: contenidos.md
-    - Changelog: changelog.md
-  - Dart:
-    - dart/index.md
-  - Flutter:
-    - flutter/index.md
-  - Git: git.md
-  - Scrum: scrum.md
-#  - Tutoriales:
-#    - tutoriales/index.md
+  - Curriculum:
+    - Castellano: cv_castellano.md
+  - Proyectos: proyectos.md
+#  - Blog:
+#    - blog/index.md
 #    - 2022:
 #      - blog/2021/the-past-present-and-future.md
 #      - blog/2021/excluding-content-from-search.md
 #      - blog/2021/search-better-faster-smaller.md
+  - Changelog: CHANGELOG.md
 #  - Reference:
 #    - reference/index.md
 #    - Design:
