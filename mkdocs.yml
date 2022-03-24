@@ -23,6 +23,7 @@ copyright: Copyright &copy; 2000 - 2022 Sebastian Larrauri
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "material"]
+  logo: assets/logo_144_trans_der.png
 
   # Static files
   static_templates:
