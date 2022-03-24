@@ -8,13 +8,19 @@ Sebastian Larrauri Here!
 - 📫 How to reach me: @Slarrauri slarrauri@gmail.com
 - ⚡ Fun fact: Fan of the Birra! 
 - ❤️ Love Tech Industry
-
+- 💬 Ask me about Tech Industry, Flutter Dart develompment, BlockChain Development. 
 todo add links
 <!--
 **slarrauri/slarrauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 💬 Ask me about Tech Industry, Flutter Dart develompment, BlockChain Development. 
+
 - 👯 I’m looking to collaborate on the development of 
 - 😄 Pronouns: He/Him/His/They
+
+TODO: 
+  - Add PDF download in CV Section 
+
+
+
 -->
