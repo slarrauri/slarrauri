@@ -11,6 +11,14 @@ template: overrides/main.html
     ⚡ Fun fact: Fan of the Birra!    
     ❤️ Love Tech Industry  
 
+!!! Info "Información de Contacto"
+
+    📱 +543516200864  
+    ✉️ slarrauri@gmail.com  
+    🌎 http://slarrauri.ar  
+    👩‍💻 https://github.com/slarrauri  
+    🐣 https://twitter.com/slarrauri  
+
 ### Habilidades Técnicas
 Estas son algunas de las tecnologías que mas he usado a lo largo de mi carrera que comenzó allá por el año 2003:
 !!! note ""

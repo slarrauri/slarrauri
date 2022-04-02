@@ -12,6 +12,14 @@ template: overrides/main.html
     ⚡ Fun fact: Fan of the Birra!  
     ❤️ Love Tech Industry  
 
+!!! Info "Contact Information"
+
+    📱 +543516200864  
+    ✉️ slarrauri@gmail.com  
+    🌎 http://slarrauri.ar  
+    👩‍💻 https://github.com/slarrauri  
+    🐣 https://twitter.com/slarrauri  
+
 
 ### Technical Skills
 These are some of the technologies that I use in the developments in which I have worked throughout the 20 years of experience in the Tech Industry:
