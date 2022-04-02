@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 # Curriculum Sebastian Larrauri 
-
+[Download As PDF](cv/cv_sebastian_larrauri_english.pdf){ .md-button }
 ## 🍳 SKILLS SUMMARY
 !!! summary
 
