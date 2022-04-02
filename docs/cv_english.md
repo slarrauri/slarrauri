@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 # Curriculum Sebastian Larrauri 
-
+[Download As PDF](cv/cv_sebastian_larrauri_english.pdf){ .md-button }
 ## 🍳 SKILLS SUMMARY
 !!! summary
 
@@ -11,6 +11,14 @@ template: overrides/main.html
     🤔 I’m looking for help with The Flutter Developers Guide  
     ⚡ Fun fact: Fan of the Birra!  
     ❤️ Love Tech Industry  
+
+!!! Info "Contact Information"
+
+    📱 +543516200864  
+    ✉️ slarrauri@gmail.com  
+    🌎 http://slarrauri.ar  
+    👩‍💻 https://github.com/slarrauri  
+    🐣 https://twitter.com/slarrauri  
 
 
 ### Technical Skills
