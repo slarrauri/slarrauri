@@ -5,11 +5,11 @@
 site_name: Slarrauri
 site_url: https://slarrauri.github.io/slarrauri/
 site_author: Sebastian Larrauri
+site_h1: Flutter / Dart / Solidity Developer
 site_description: >-
-  Bienvenido a mi sitio web personal, Mi nombre es Sebastian Larraur,
-  y en esta web podras encontrar: articulos sobre el mundo tech, 
-  acceso a mi Curriculums Vitae y mis proyectos open source; 
-  siendo el principal DartyFlutter.dev 
+  Bienvenido a mi sitio web personal, Mi nombre es Sebastian Larrauri,
+  Soy Desarrollador de Software y una apasionado de la tecnología.
+  Actualmente estoy desarrollando con Flutter, Dart y Solidity
 
 # Repository
 repo_name: slarrauri/slarrauri
@@ -23,7 +23,7 @@ copyright: Copyright &copy; 2000 - 2022 Sebastian Larrauri
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "material"]
-  logo: assets/logo_144_trans_der.png
+  logo: assets/vista_derecha.png
 
   # Static files
   static_templates:
@@ -34,7 +34,8 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: en
+  language: es
+
   features:
     - content.code.annotate
     # - content.tabs.link
@@ -54,8 +55,8 @@ theme:
     # - toc.integrate
   palette:
     - scheme: slate
-      primary: amber
-      accent: amber
+      primary: blue
+      accent: blue
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -134,14 +135,15 @@ nav:
   - Home: index.md
   - Curriculum:
     - Castellano: cv_castellano.md
-  - Proyectos: proyectos.md
+    - English: cv_english.md
+#  - Proyectos: proyectos.md
 #  - Blog:
 #    - blog/index.md
 #    - 2022:
 #      - blog/2021/the-past-present-and-future.md
 #      - blog/2021/excluding-content-from-search.md
 #      - blog/2021/search-better-faster-smaller.md
-  - Changelog: CHANGELOG.md
+#  - Changelog: CHANGELOG.md
 #  - Reference:
 #    - reference/index.md
 #    - Design:

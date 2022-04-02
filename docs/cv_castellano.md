@@ -14,21 +14,21 @@ template: overrides/main.html
 ### Habilidades Técnicas
 Estas son algunas de las tecnologías que mas he usado a lo largo de mi carrera que comenzó allá por el año 2003:
 !!! note ""
-    - Flutter, +4 años
-    - Dart, +4 años 
-    - Solidity +1 año
-    - HTML, CSS, Javascript, +8 años
-    - Bootstrap +8 años
-    - PHP, +8 años
-    - Jquery, +8 años
-    - SQL, Mysql, +8 años
-    - MongoDB, ElasticSearch, +5 años
-    - GIT, +6 años
-    - Scrum, +8 años
-    - PMBOK, +8 años
-    - Wordpress, +6 años
-    - Joomla. +6 años
-    - CI/CD, +2 años
+  - Flutter, 4 años
+  - Dart, 4 años
+  - Solidity 1 año
+  - HTML, CSS, Javascript, 8 años
+  - Bootstrap 8 años
+  - PHP, 8 años
+  - Jquery, 8 años
+  - SQL, Mysql, 8 años
+  - MongoDB, ElasticSearch, 4 años
+  - GIT, 6 años
+  - Scrum, 8 años
+  - PMBOK, 8 años
+  - Wordpress, 6 años
+  - Joomla. 6 años
+  - CI/CD, 2 años
 
 ### Habilidades Blandas
 !!! note ""
@@ -69,7 +69,7 @@ Febrero 2021 – Actualidad
 ###  Landhi S.A.
 Enero 2022 – Actualidad
 !!! info "Landhi is an online community that connects home improvement professionals, homeowners, and home & decor stores through visual search technology"
-!!! note "Puesto: Flutter Tech Lead / Senior Flutter Developer"
+!!! note "Puesto: Colaboración como Flutter Tech Lead / Senior Flutter Developer"
 !!! summary "Entre mis responsabilidades se encuentran:"
     - Entre mis responsabilidades y tareas se encuentran:
     - El desarrollo de la documentación técnica del desarrollo.
@@ -107,7 +107,7 @@ Septiembre 2010 - Junio 2017 (CBA)
     - Desarrollador de sitios web de variadas temáticas utilizando Wordpress. 
 !!! tip "Tecnologías Más usadas"
     Wordpress, Bootstrap, Javascript, Jquery, PHP, Mysql, HTML, CSS, Cpanel, Git, Flutter, Dart, WebRtc.
-!!! cite "<a href="http://github.com/slarrauri/" target="_blank">github.com/slarrauri</a>"
+!!! cite "<a href="http://slarrauri.ar" target="_blank">slarrauri.ar</a>"
 
 <!------------------------------------------------------------------------------------>
 ### IGS – Sistemas 
