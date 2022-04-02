@@ -135,7 +135,7 @@ nav:
   - Home: index.md
   - Curriculum:
     - Castellano: cv_castellano.md
-    - English: cv_castellano.md
+    - English: cv_english.md
 #  - Proyectos: proyectos.md
 #  - Blog:
 #    - blog/index.md
