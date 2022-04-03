@@ -1,5 +1,6 @@
 ---
 template: overrides/main.html
+title: Sebastian Larrauri Curriculum Vitae English
 ---
 # Curriculum Sebastian Larrauri 
 [Download As PDF](cv/cv_sebastian_larrauri_english.pdf){ .md-button }
