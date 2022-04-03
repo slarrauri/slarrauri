@@ -136,6 +136,19 @@ nav:
   - Curriculum:
     - Castellano: cv_castellano.md
     - English: cv_english.md
+  - Flutter Developer Guide: https://flutterdeveloperguide.slarrauri.ar
+
+#  - Coding Notes:
+#    - Javascript:
+#        - JavaScript Básico: coding_notes/javascript/01_javascript_basico.md
+#        - ES6: coding_notes/javascript/02_ES6.md
+#        - Expresiones Regulares: coding_notes/javascript/03_expresiones_regulares.md.md
+#        - Depuración: coding_notes/javascript/04_depuracion.md.md
+#        - Estructuras de Datos Básicas: coding_notes/javascript/05_estructuras_de_datos_basicas.md.md
+#        - Programación de Algoritmos Básicos: coding_notes/javascript/06_programacion_de_algoritmos_basicos.md.md
+#        - Programación Orientada a Objetos: coding_notes/javascript/07_programacion_orientada_a_objetos.md.md
+#        - Programación Funcional: coding_notes/javascript/08_programacion_funcional.md.md
+#        - Programación de Algoritmos Intermedios: coding_notes/javascript/09_programacion_de_algoritmos_intermedios.md.md
 #  - Proyectos: proyectos.md
 #  - Blog:
 #    - blog/index.md
