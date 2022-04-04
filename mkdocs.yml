@@ -3,7 +3,7 @@
 
 # Project information
 site_name: Slarrauri
-site_url: https://slarrauri.github.io/slarrauri/
+site_url: https://slarrauri.ar/
 site_author: Sebastian Larrauri
 site_h1: Flutter / Dart / Solidity Developer
 site_description: >-
@@ -137,18 +137,19 @@ nav:
     - Castellano: cv_castellano.md
     - English: cv_english.md
   - Flutter Developer Guide: https://flutterdeveloperguide.slarrauri.ar
-
-#  - Coding Notes:
-#    - Javascript:
-#        - JavaScript Básico: coding_notes/javascript/01_javascript_basico.md
-#        - ES6: coding_notes/javascript/02_ES6.md
-#        - Expresiones Regulares: coding_notes/javascript/03_expresiones_regulares.md.md
-#        - Depuración: coding_notes/javascript/04_depuracion.md.md
-#        - Estructuras de Datos Básicas: coding_notes/javascript/05_estructuras_de_datos_basicas.md.md
-#        - Programación de Algoritmos Básicos: coding_notes/javascript/06_programacion_de_algoritmos_basicos.md.md
-#        - Programación Orientada a Objetos: coding_notes/javascript/07_programacion_orientada_a_objetos.md.md
-#        - Programación Funcional: coding_notes/javascript/08_programacion_funcional.md.md
-#        - Programación de Algoritmos Intermedios: coding_notes/javascript/09_programacion_de_algoritmos_intermedios.md.md
+  - Coding Notes:
+    - coding_notes/index.md
+    - Convenciones de Estilos: coding_notes/de_todo_un_poco/convenciones_de_estilos.md
+    - Javascript:
+        - JavaScript Básico: coding_notes/javascript/01_javascript_basico.md
+        - ES6: coding_notes/javascript/02_ES6.md
+        - Expresiones Regulares: coding_notes/javascript/03_expresiones_regulares.md
+        - Depuración: coding_notes/javascript/04_depuracion.md
+        - Estructuras de Datos: coding_notes/javascript/05_estructuras_de_datos_basicas.md
+        - Algoritmos Básicos: coding_notes/javascript/06_programacion_de_algoritmos_basicos.md
+        - Programación Orientada a Objetos: coding_notes/javascript/07_programacion_orientada_a_objetos.md
+        - Programación Funcional: coding_notes/javascript/08_programacion_funcional.md
+        - Programación de Algoritmos: coding_notes/javascript/09_programacion_de_algoritmos_intermedios.md
 #  - Proyectos: proyectos.md
 #  - Blog:
 #    - blog/index.md
