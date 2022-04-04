@@ -1,13 +1,14 @@
 # Coding Notes
 
-En esta sección encontrarás mis notas sobre distintos lenguajes de programación. 
+En esta sección encontrarás mis notas sobre distintos lenguajes de programación 
+y temas relacionados con la creación de código. 
 
-He creado la misma para tener de referencia mientras aprendo el lenguaje.
-Como algunos lenguajes ya los usu a diario voy completando esta sección a medida que tengo tiempo. 
-Por lo que hasta el momento algunos lenguajes están incompletos. 
+He creado esta sección para que me sirva de referencia personal, 
+por lo tanto no explico con detalle lo expuesto en la misma. 
 
 ## Contenido
 
+    - De todo un poco
     - Javascript (Doing)
     - Dart (TODO)
     - Flutter (TODO)

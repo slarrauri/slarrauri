@@ -43,4 +43,37 @@ Documentar un proyecto es todo un tópico, aquí hay algunos enlaces de interés
 
 !!! tip "Mas Info sobre documentacion en JS"
     https://jsdoc.app/  
-    https://developer.wordpress.org/coding-standards/inline-documentation-standards/javascript/  
+    https://developer.wordpress.org/coding-standards/inline-documentation-standards/javascript/
+
+## Variables
+!!! info "Tipo de datos"
+    `undefined`, `null`, `boolean`, `string`, `symbol`, `bigint`, `number`, y `object`
+
+```javascript title="declarar una variable y asignarle un valor:"
+var myVar; // undefined
+myVar = 5;
+```
+
+!!! tip
+    Si hay cálculos a la derecha del operador =, se realizan antes de que el valor se asigne 
+    a la variable a la izquierda del operador.
+
+!!! note
+    las variables pueden estar formadas por números, letras y $ o _, 
+    pero no pueden contener espacios ni empezar con un número.
+
+!!! warning 
+    las variables son sensibles a Mayúsculas y minúsculas
+
+```javascript title="Estas son dos variables distintas:"
+var myVar = "lalala"; 
+var MyVar = 5;
+```
+!!! tip
+    Por convención las variables se escriben en **camelCase** también llamado **lowerCamerCase**
+    Para mas info sobre convenciones de nombre ver: [Conveniciones de nombres]()
+```javascript title="Estas son dos variables distintas:"
+var unaVariable;
+var otraVariable;
+var ejemploDeNombrePropio;
+```
