@@ -139,6 +139,7 @@ nav:
   - Flutter Developer Guide: https://flutterdeveloperguide.slarrauri.ar
   - Coding Notes:
     - coding_notes/index.md
+    - Convenciones de Estilos: coding_notes/de_todo_un_poco/convenciones_de_estilos.md
     - Javascript:
         - JavaScript Básico: coding_notes/javascript/01_javascript_basico.md
         - ES6: coding_notes/javascript/02_ES6.md
