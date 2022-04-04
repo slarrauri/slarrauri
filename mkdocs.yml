@@ -138,6 +138,7 @@ nav:
     - English: cv_english.md
   - Flutter Developer Guide: https://flutterdeveloperguide.slarrauri.ar
   - Coding Notes:
+    - coding_notes/index.md
     - Javascript:
         - JavaScript Básico: coding_notes/javascript/01_javascript_basico.md
         - ES6: coding_notes/javascript/02_ES6.md
