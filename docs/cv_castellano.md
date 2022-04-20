@@ -46,8 +46,8 @@ Estas son algunas de las tecnologías que mas he usado a lo largo de mi carrera 
 
 ### Idiomas
 !!! note ""
-    🇦🇷 Español/Castellano: Nativo  
-    🇺🇸 English: Intermediate B1 Level  
+    Español: Nativo  
+    English: Intermediate B1 Level  
 
 ## 👨‍💻 EXPERIENCIA <!---------------------------------------------------------->
 ----
@@ -130,7 +130,7 @@ Diciembre 2008 – Agosto 2010
     - Comunicación con clientes
     - Definición de presupuesto.
 !!! tip "Tecnologías Más usadas"
-   PMBOK, SCRUM. 
+    PMBOK, SCRUM. 
 !!! cite "<a href="http://igs.com.ar/" target="_blank">igs.com.ar</a>"
 
 <!------------------------------------------------------------------------------------>
@@ -174,14 +174,32 @@ Febrero 2005 – Diciembre 2006
 <!--------------------------------------------->
 !!! info 
     Nunca parar de aprender es algo que me apasiona por lo que sigo realizando cursos y capacitaciones constantemente, entre ellos: 
+
+#### Prework Desarrollo de Aplicaciones Blockchain  - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2559-prework-blockchain/diploma/detalle/
+
+#### Ethereum para Developers  - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2560-ethereum-developers/diploma/detalle/
+
+#### Github Actions - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2683-github-actions/diploma/detalle/
+
+#### Fundamentos de la Web3 - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2727-fundamentos-web3/diploma/detalle/
  
-#### Curso de Introducción a Solidity December 2021
+#### Curso de Introducción a Solidity - December 2021
 https://platzi.com/p/slarrauri/course/2576-solidity/diploma/detalle/ 
 
 #### The Complete Flutter Development Bootcamp with Dart Diciembre 2019
+Udemy
 
 #### Negociación y resolución de conflictos Enero 2014 - Diciembre 2014
-#### Macquarie Graduate School of Management – Open2Study No está más disponible. 
+Open2Study - Macquarie Graduate School of Management
+No está más disponible. 
 
 #### La experiencia del usuario en la Web UX/UI Enero 2014 - Diciembre 2014
 Open2Study no está más disponible. 

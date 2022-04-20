@@ -48,8 +48,8 @@ These are some of the technologies that I use in the developments in which I hav
 
 ### Languages
 !!! note ""
-    🇦🇷 Spanish: Nativo e
-    🇺🇸 English: Intermediate B1 Level  
+    Spanish: Nativo
+    English: Intermediate B1 Level  
 
 ## 👨‍💻 EXPERIENCE <!---------------------------------------------------------->
 ----
@@ -135,7 +135,7 @@ Diciembre 2008 – Agosto 2010
     - Communication with clients
     - Definition of budget.
 !!! tip "Technologies Most Used"
-   PMBOK, SCRUM. 
+    PMBOK, SCRUM. 
 !!! cite "<a href="http://igs.com.ar/" target="_blank">igs.com.ar</a>"
 
 <!------------------------------------------------------------------------------------>
@@ -178,11 +178,29 @@ February 2005 - December 2006
 !!! info 
     Never stop learning is something that I am passionate about, so I continue to constantly take courses and trainings, including:
 
+#### Prework Development of Blockchain Applications - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2559-prework-blockchain/diploma/detalle/
+
+#### Ethereum for Developers - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2560-ethereum-developers/diploma/detalle/
+
+#### Github Actions - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2683-github-actions/diploma/detalle/
+
+#### Fundamentals of the - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2727-fundamentos-web3/diploma/detalle/
+
 #### Introductory Course to Solidity December 2021
 https://platzi.com/p/slarrauri/course/2576-solidity/diploma/detalle/
 
 #### The Complete Flutter Development Bootcamp with Dart December 2019
-Negotiation and conflict resolution January 2014 - December 2014
+Udemy
+
+#### Negotiation and conflict resolution January 2014 - December 2014
 Macquarie Graduate School of Management - Open2Study is no longer available.
 
 #### User experience on the Web UX / UI January 2014 - December 2014
