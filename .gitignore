@@ -1,1 +1,7 @@
 slarrauri.code-workspace
+material/__pycache__/__init__.cpython-310.pyc
+material/plugins/__pycache__/__init__.cpython-310.pyc
+material/plugins/search/__pycache__/__init__.cpython-310.pyc
+material/plugins/search/__pycache__/plugin.cpython-310.pyc
+material/plugins/tags/__pycache__/__init__.cpython-310.pyc
+material/plugins/tags/__pycache__/plugin.cpython-310.pyc
