@@ -1,43 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/changelog/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/changelog/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/cv_castellano/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/cv_castellano/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/proyectos/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/cv_english/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/blog/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/proyectos/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/blog/2021/excluding-content-from-search/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/blog/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/blog/2021/search-better-faster-smaller/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/blog/2021/excluding-content-from-search/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://slarrauri.github.io/slarrauri/blog/2021/the-past-present-and-future/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <loc>https://slarrauri.ar/blog/2021/search-better-faster-smaller/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/blog/2021/the-past-present-and-future/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/de_todo_un_poco/convenciones_de_estilos/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/01_javascript_basico/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/02_ES6/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/03_expresiones_regulares/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/04_depuracion/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/05_estructuras_de_datos_basicas/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/06_programacion_de_algoritmos_basicos/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/07_programacion_orientada_a_objetos/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/08_programacion_funcional/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/javascript/09_programacion_de_algoritmos_intermedios/</loc>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/coding_notes/solidity/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

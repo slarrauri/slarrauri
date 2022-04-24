@@ -12,19 +12,21 @@
         <meta name="author" content="Sebastian Larrauri">
       
       
-      <link rel="icon" href="/assets/favicon.png">
+        <link rel="canonical" href="https://slarrauri.ar/coding_notes/javascript/02_ES6/">
+      
+      <link rel="icon" href="../../../assets/favicon.png">
       <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.5">
     
     
       
-        <title>Slarrauri</title>
+        <title>ES6 - Slarrauri</title>
       
     
     
-      <link rel="stylesheet" href="/assets/stylesheets/main.2d9f7617.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.2d9f7617.min.css">
       
         
-        <link rel="stylesheet" href="/assets/stylesheets/palette.e6a45f82.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.e6a45f82.min.css">
         
       
     
@@ -39,7 +41,7 @@
       
     
     
-    <script>__md_scope=new URL("/",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
   
@@ -73,6 +75,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#es6" class="md-skip">
+          Saltar a contenido
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -83,9 +90,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Cabecera">
-    <a href="/." title="Slarrauri" class="md-header__button md-logo" aria-label="Slarrauri" data-md-component="logo">
+    <a href="../../.." title="Slarrauri" class="md-header__button md-logo" aria-label="Slarrauri" data-md-component="logo">
       
-  <img src="/assets/vista_derecha.png" alt="logo">
+  <img src="../../../assets/vista_derecha.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -101,7 +108,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              
+              ES6
             
           </span>
         </div>
@@ -204,7 +211,7 @@
 
 
   <li class="md-tabs__item">
-    <a href="/." class="md-tabs__link">
+    <a href="../../.." class="md-tabs__link">
       Home
     </a>
   </li>
@@ -219,7 +226,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="/cv_castellano/" class="md-tabs__link">
+      <a href="../../../cv_castellano/" class="md-tabs__link">
         Curriculum
       </a>
     </li>
@@ -259,9 +266,9 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="/." title="Slarrauri" class="md-nav__button md-logo" aria-label="Slarrauri" data-md-component="logo">
+    <a href="../../.." title="Slarrauri" class="md-nav__button md-logo" aria-label="Slarrauri" data-md-component="logo">
       
-  <img src="/assets/vista_derecha.png" alt="logo">
+  <img src="../../../assets/vista_derecha.png" alt="logo">
 
     </a>
     Slarrauri
@@ -289,7 +296,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/." class="md-nav__link">
+      <a href="../../.." class="md-nav__link">
         Home
       </a>
     </li>
@@ -336,7 +343,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/cv_castellano/" class="md-nav__link">
+      <a href="../../../cv_castellano/" class="md-nav__link">
         Castellano
       </a>
     </li>
@@ -350,7 +357,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/cv_english/" class="md-nav__link">
+      <a href="../../../cv_english/" class="md-nav__link">
         English
       </a>
     </li>
@@ -386,12 +393,118 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#declaracion-de-variables-es6" class="md-nav__link">
+    Declaración de Variables ES6
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arrow-functions" class="md-nav__link">
+    Arrow Functions
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
-  <h1>404 - Not found</h1>
+                
 
+  
+
+
+
+<h1 id="es6">ES6<a class="headerlink" href="#es6" title="Permanent link">&para;</a></h1>
+<h2 id="declaracion-de-variables-es6">Declaración de Variables ES6<a class="headerlink" href="#declaracion-de-variables-es6" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Declarando con var</p>
+<p><code>var</code> es declarada globalmente y localmente si es dentro de una funcion</p>
+</div>
+<p><div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="kd">var</span> <span class="nx">numArray</span> <span class="o">=</span> <span class="p">[];</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="k">for</span> <span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mf">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="mf">3</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>  <span class="nx">numArray</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="nx">i</span><span class="p">);</span>
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="p">}</span>
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">numArray</span><span class="p">);</span> <span class="c1">// [0, 1, 2] </span>
+<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">i</span><span class="p">);</span> <span class="c1">// 3</span>
+<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="p">}</span>
+</code></pre></div>
+Este comportamiento causará problemas si creas una función y la almacenas para 
+su uso posterior dentro de un bucle for que usa la variable <code>i</code>. 
+Esto se debe a que la función almacenada siempre se referirá al valor de la 
+variable global <code>i</code> actualizada.</p>
+<div class="admonition info">
+<p class="admonition-title">Declarando con let</p>
+</div>
+<p><code>let</code> ademas de lo anterior <code>let</code> también se limita al bloque, declaración o expresión</p>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="kd">let</span> <span class="nx">printNumTwo</span><span class="p">;</span>
+<a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">i</span> <span class="o">=</span> <span class="mf">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="mf">3</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+<a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a>  <span class="k">if</span> <span class="p">(</span><span class="nx">i</span> <span class="o">===</span> <span class="mf">2</span><span class="p">)</span> <span class="p">{</span>
+<a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a>    <span class="nx">printNumTwo</span> <span class="o">=</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+<a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a>      <span class="k">return</span> <span class="nx">i</span><span class="p">;</span>
+<a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a>    <span class="p">};</span>
+<a id="__codelineno-1-7" name="__codelineno-1-7" href="#__codelineno-1-7"></a>  <span class="p">}</span>
+<a id="__codelineno-1-8" name="__codelineno-1-8" href="#__codelineno-1-8"></a><span class="p">}</span>
+<a id="__codelineno-1-9" name="__codelineno-1-9" href="#__codelineno-1-9"></a><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">printNumTwo</span><span class="p">());</span> <span class="c1">// 2</span>
+<a id="__codelineno-1-10" name="__codelineno-1-10" href="#__codelineno-1-10"></a><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">i</span><span class="p">);</span> <span class="c1">// i is not defined</span>
+</code></pre></div>
+<div class="admonition info">
+<p class="admonition-title">Declarando con const</p>
+</div>
+<p><code>const</code> ademas de funcionar como <code>let</code>, y de ser inmutable 
+aun se puede modificar, si la variable declarada es un objeto (arrays, funciones). </p>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="kd">const</span> <span class="nx">s</span> <span class="o">=</span> <span class="p">[</span><span class="mf">5</span><span class="p">,</span> <span class="mf">6</span><span class="p">,</span> <span class="mf">7</span><span class="p">];</span>
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="nx">s</span> <span class="o">=</span> <span class="p">[</span><span class="mf">1</span><span class="p">,</span> <span class="mf">2</span><span class="p">,</span> <span class="mf">3</span><span class="p">];</span> <span class="c1">// no funcionara</span>
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="nx">s</span><span class="p">[</span><span class="mf">2</span><span class="p">]</span> <span class="o">=</span> <span class="mf">45</span><span class="p">;</span>
+<a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span> <span class="c1">// [5, 6, 45]</span>
+</code></pre></div>
+<h2 id="arrow-functions">Arrow Functions<a class="headerlink" href="#arrow-functions" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>Cuando la función no posee cuerpo y sólo tiene un valor de retorno, 
+la sintaxis de "función de flecha", te permite omitir la palabra clave return,
+así como los corchetes que rodean el código. 
+Esto ayuda a simplificar las funciones más pequeñas en sentencias de una sola línea</p>
+</div>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="kd">const</span> <span class="nx">myFunc</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="ow">new</span> <span class="nb">Date</span><span class="p">();</span>
+</code></pre></div>
+<p>También puede pasar argumentos a una <code>arrow function</code>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="kd">const</span> <span class="nx">doubler</span> <span class="o">=</span> <span class="p">(</span><span class="nx">item</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">item</span> <span class="o">*</span> <span class="mf">2</span><span class="p">;</span>
+<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="nx">doubler</span><span class="p">(</span><span class="mf">4</span><span class="p">);</span>
+</code></pre></div></p>
+<p>Si la función recibe un solo argumento se puede omitir los <code>()</code>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="kd">const</span> <span class="nx">doubler</span> <span class="o">=</span> <span class="nx">item</span> <span class="p">=&gt;</span> <span class="nx">item</span> <span class="o">*</span> <span class="mf">2</span><span class="p">;</span>
+</code></pre></div></p>
+
+              
             </article>
           </div>
         </div>
@@ -451,10 +564,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "/", "features": ["content.code.annotate", "navigation.indexes", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "/assets/javascripts/workers/search.d5a3c699.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.code.annotate", "navigation.indexes", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../../assets/javascripts/workers/search.d5a3c699.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
     
     
-      <script src="/assets/javascripts/bundle.897f3768.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.897f3768.min.js"></script>
       
     
   </body>

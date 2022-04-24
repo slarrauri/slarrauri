@@ -12,19 +12,21 @@
         <meta name="author" content="Sebastian Larrauri">
       
       
-      <link rel="icon" href="/assets/favicon.png">
+        <link rel="canonical" href="https://slarrauri.ar/coding_notes/javascript/01_javascript_basico/">
+      
+      <link rel="icon" href="../../../assets/favicon.png">
       <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.5">
     
     
       
-        <title>Slarrauri</title>
+        <title>JavaScript Básico - Slarrauri</title>
       
     
     
-      <link rel="stylesheet" href="/assets/stylesheets/main.2d9f7617.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.2d9f7617.min.css">
       
         
-        <link rel="stylesheet" href="/assets/stylesheets/palette.e6a45f82.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.e6a45f82.min.css">
         
       
     
@@ -39,7 +41,7 @@
       
     
     
-    <script>__md_scope=new URL("/",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
   
@@ -73,6 +75,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#javascript-basico" class="md-skip">
+          Saltar a contenido
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -83,9 +90,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Cabecera">
-    <a href="/." title="Slarrauri" class="md-header__button md-logo" aria-label="Slarrauri" data-md-component="logo">
+    <a href="../../.." title="Slarrauri" class="md-header__button md-logo" aria-label="Slarrauri" data-md-component="logo">
       
-  <img src="/assets/vista_derecha.png" alt="logo">
+  <img src="../../../assets/vista_derecha.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -101,7 +108,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              
+              JavaScript Básico
             
           </span>
         </div>
@@ -204,7 +211,7 @@
 
 
   <li class="md-tabs__item">
-    <a href="/." class="md-tabs__link">
+    <a href="../../.." class="md-tabs__link">
       Home
     </a>
   </li>
@@ -219,7 +226,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="/cv_castellano/" class="md-tabs__link">
+      <a href="../../../cv_castellano/" class="md-tabs__link">
         Curriculum
       </a>
     </li>
@@ -259,9 +266,9 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="/." title="Slarrauri" class="md-nav__button md-logo" aria-label="Slarrauri" data-md-component="logo">
+    <a href="../../.." title="Slarrauri" class="md-nav__button md-logo" aria-label="Slarrauri" data-md-component="logo">
       
-  <img src="/assets/vista_derecha.png" alt="logo">
+  <img src="../../../assets/vista_derecha.png" alt="logo">
 
     </a>
     Slarrauri
@@ -289,7 +296,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/." class="md-nav__link">
+      <a href="../../.." class="md-nav__link">
         Home
       </a>
     </li>
@@ -336,7 +343,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/cv_castellano/" class="md-nav__link">
+      <a href="../../../cv_castellano/" class="md-nav__link">
         Castellano
       </a>
     </li>
@@ -350,7 +357,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/cv_english/" class="md-nav__link">
+      <a href="../../../cv_english/" class="md-nav__link">
         English
       </a>
     </li>
@@ -386,12 +393,191 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#comentarios" class="md-nav__link">
+    Comentarios
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variables" class="md-nav__link">
+    Variables
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-variables-js" class="md-nav__link">
+    Tipos de Variables JS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#operadores-aritmeticos" class="md-nav__link">
+    Operadores Aritméticos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#asignacion-compuesta" class="md-nav__link">
+    Asignación Compuesta
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
-  <h1>404 - Not found</h1>
+                
 
+  
+
+
+
+<h1 id="javascript-basico">JavaScript Básico<a class="headerlink" href="#javascript-basico" title="Permanent link">&para;</a></h1>
+<h2 id="comentarios">Comentarios<a class="headerlink" href="#comentarios" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>Los comentarios son líneas de código que el compilador omite.<br />
+Son muy usados para documentar el código y recordar que hace el mismo.  </p>
+</div>
+<div class="highlight"><span class="filename">Comentario de una linea</span><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="c1">// esto es un comentartio</span>
+</code></pre></div>
+<div class="highlight"><span class="filename">Comentario de multiples lineas</span><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="cm">/* </span>
+<a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="cm">Esto es un comentartio</span>
+<a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="cm">de multiples lineas</span>
+<a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a><span class="cm">*/</span>
+</code></pre></div>
+<div class="admonition info">
+<p class="admonition-title">Comentarios para documentación</p>
+<p>Existe un tercer tipo de comentario que es para generar la documentación
+del proyecto o código que estemos creando. </p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Cuidad al documentar</p>
+<p>Si bien la documentación del proyecto es muy importante para que otros programadores
+entienda fácilmente el código escrito es importante recordad que el código
+debe ser autoexplicativo evitando documentar innecesariamente. 
+Ya que cuando actualicemos el código también tenemos que actualizar la documentación. 
+Úsala sabiamente. </p>
+</div>
+<p><div class="highlight"><span class="filename">Por lo general un comentario de documentacion lucera como el siguiente:</span><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="cm">/* </span>
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="cm">/**</span>
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="cm"> * Represents a book.</span>
+<a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="cm"> * @constructor</span>
+<a id="__codelineno-2-5" name="__codelineno-2-5" href="#__codelineno-2-5"></a><span class="cm"> * @param {string} title - The title of the book.</span>
+<a id="__codelineno-2-6" name="__codelineno-2-6" href="#__codelineno-2-6"></a><span class="cm"> * @param {string} author - The author of the book.</span>
+<a id="__codelineno-2-7" name="__codelineno-2-7" href="#__codelineno-2-7"></a><span class="cm"> */</span>
+<a id="__codelineno-2-8" name="__codelineno-2-8" href="#__codelineno-2-8"></a><span class="kd">function</span> <span class="nx">Book</span><span class="p">(</span><span class="nx">title</span><span class="p">,</span> <span class="nx">author</span><span class="p">)</span> <span class="p">{</span>
+<a id="__codelineno-2-9" name="__codelineno-2-9" href="#__codelineno-2-9"></a><span class="p">}</span>
+<a id="__codelineno-2-10" name="__codelineno-2-10" href="#__codelineno-2-10"></a><span class="o">*</span><span class="err">/</span>
+</code></pre></div>
+Documentar un proyecto es todo un tópico, aquí hay algunos enlaces de interés:</p>
+<div class="admonition tip">
+<p class="admonition-title">Más Info sobre documentación en JS</p>
+<p><a href="https://jsdoc.app/">https://jsdoc.app/</a><br />
+<a href="https://developer.wordpress.org/coding-standards/inline-documentation-standards/javascript/">https://developer.wordpress.org/coding-standards/inline-documentation-standards/javascript/</a></p>
+</div>
+<h2 id="variables">Variables<a class="headerlink" href="#variables" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Tipo de datos</p>
+<p><code>undefined</code>, <code>null</code>, <code>boolean</code>, <code>string</code>, <code>symbol</code>, <code>bigint</code>, <code>number</code>, y <code>object</code></p>
+</div>
+<div class="highlight"><span class="filename">declarar una variable y asignarle un valor:</span><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="kd">var</span> <span class="nx">myVar</span><span class="p">;</span> <span class="c1">// undefined</span>
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="nx">myVar</span> <span class="o">=</span> <span class="mf">5</span><span class="p">;</span>
+</code></pre></div>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Si hay cálculos a la derecha del operador =, se realizan antes de que el valor se asigne 
+a la variable a la izquierda del operador.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>las variables pueden estar formadas por números, letras y $ o _, 
+pero no pueden contener espacios ni empezar con un número.</p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>las variables son sensibles a Mayúsculas y minúsculas</p>
+</div>
+<div class="highlight"><span class="filename">Estas son dos variables distintas:</span><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="kd">var</span> <span class="nx">myVar</span> <span class="o">=</span> <span class="s2">&quot;lalala&quot;</span><span class="p">;</span> 
+<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="kd">var</span> <span class="nx">MyVar</span> <span class="o">=</span> <span class="mf">5</span><span class="p">;</span>
+</code></pre></div>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Por convención las variables se escriben en <strong>camelCase</strong> también llamado 
+<strong>lowerCamelCase</strong> 
+Para más info sobre convenciones de nombre ver: <a href="../../de_todo_un_poco/convenciones_de_estilos/">Convenciones de nombres</a></p>
+</div>
+<div class="highlight"><span class="filename">Estas son dos variables distintas:</span><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="kd">var</span> <span class="nx">unaVariable</span><span class="p">;</span>
+<a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a><span class="kd">var</span> <span class="nx">otraVariable</span><span class="p">;</span>
+<a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a><span class="kd">var</span> <span class="nx">ejemploDeNombrePropio</span><span class="p">;</span>
+</code></pre></div>
+<h2 id="tipos-de-variables-js">Tipos de Variables JS<a class="headerlink" href="#tipos-de-variables-js" title="Permanent link">&para;</a></h2>
+<p><code>var</code>: variables globales sobre-escribibles en su declaración
+<code>let</code>: variables de entorno (función, bloque) no se sobreescriben en su declaración
+<code>const</code>: constantes, solo se puede asignar valor una vez. </p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>por convención las variables que son constantes se escriben con el formato:
+<strong>SCREAMING_SNAKE_CASE</strong></p>
+</div>
+<h2 id="operadores-aritmeticos">Operadores Aritméticos<a class="headerlink" href="#operadores-aritmeticos" title="Permanent link">&para;</a></h2>
+<p>Los operadores aritméticos son símbolos que nos permiten realizar funciones aritméticas. </p>
+<div class="admonition info">
+<p class="admonition-title">Operadores Básicos</p>
+<p><strong>+</strong> Suma<br />
+<strong>-</strong> Resta<br />
+* Multiplicación<br />
+<strong>/</strong> División <br />
+<strong>%</strong> Módulo (calcula el resto de una división)   </p>
+</div>
+<div class="highlight"><span class="filename">Ejemplos:</span><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="kd">const</span> <span class="nx">myVar</span> <span class="o">=</span> <span class="mf">5</span> <span class="o">+</span> <span class="mf">10</span><span class="p">;</span> <span class="c1">// Suma</span>
+<a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a><span class="kd">const</span> <span class="nx">myVar</span> <span class="o">=</span> <span class="mf">12</span> <span class="o">-</span> <span class="mf">6</span><span class="p">;</span> <span class="c1">// Resta</span>
+<a id="__codelineno-6-3" name="__codelineno-6-3" href="#__codelineno-6-3"></a><span class="kd">const</span> <span class="nx">myVar</span> <span class="o">=</span> <span class="mf">13</span> <span class="o">*</span> <span class="mf">13</span><span class="p">;</span> <span class="c1">// Multiplicación</span>
+<a id="__codelineno-6-4" name="__codelineno-6-4" href="#__codelineno-6-4"></a><span class="kd">const</span> <span class="nx">myVar</span> <span class="o">=</span> <span class="mf">16</span> <span class="o">/</span> <span class="mf">2</span><span class="p">;</span> <span class="c1">// División  </span>
+</code></pre></div>
+<div class="admonition info">
+<p class="admonition-title">Incrementa - Decrementa </p>
+<p>++ incrementa + 1<br />
+-- Decrementa -1</p>
+</div>
+<div class="highlight"><span class="filename">Ejemplos:</span><pre><span></span><code><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="nx">i</span><span class="o">++</span><span class="p">;</span> <span class="c1">// es equivalente a i = i + 1;</span>
+<a id="__codelineno-7-2" name="__codelineno-7-2" href="#__codelineno-7-2"></a><span class="nx">i</span><span class="o">--</span><span class="p">;</span> <span class="c1">// es equivalente a i = i - 1;</span>
+</code></pre></div>
+<h2 id="asignacion-compuesta">Asignación Compuesta<a class="headerlink" href="#asignacion-compuesta" title="Permanent link">&para;</a></h2>
+
+              
             </article>
           </div>
         </div>
@@ -451,10 +637,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "/", "features": ["content.code.annotate", "navigation.indexes", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "/assets/javascripts/workers/search.d5a3c699.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.code.annotate", "navigation.indexes", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../../assets/javascripts/workers/search.d5a3c699.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
     
     
-      <script src="/assets/javascripts/bundle.897f3768.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.897f3768.min.js"></script>
       
     
   </body>

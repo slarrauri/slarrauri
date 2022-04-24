@@ -12,19 +12,21 @@
         <meta name="author" content="Sebastian Larrauri">
       
       
-      <link rel="icon" href="/assets/favicon.png">
+        <link rel="canonical" href="https://slarrauri.ar/coding_notes/javascript/07_programacion_orientada_a_objetos/">
+      
+      <link rel="icon" href="../../../assets/favicon.png">
       <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.5">
     
     
       
-        <title>Slarrauri</title>
+        <title>Programación Orientada a Objetos - Slarrauri</title>
       
     
     
-      <link rel="stylesheet" href="/assets/stylesheets/main.2d9f7617.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.2d9f7617.min.css">
       
         
-        <link rel="stylesheet" href="/assets/stylesheets/palette.e6a45f82.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.e6a45f82.min.css">
         
       
     
@@ -39,7 +41,7 @@
       
     
     
-    <script>__md_scope=new URL("/",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
   
@@ -73,6 +75,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#programacion-orientada-a-objetos" class="md-skip">
+          Saltar a contenido
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -83,9 +90,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Cabecera">
-    <a href="/." title="Slarrauri" class="md-header__button md-logo" aria-label="Slarrauri" data-md-component="logo">
+    <a href="../../.." title="Slarrauri" class="md-header__button md-logo" aria-label="Slarrauri" data-md-component="logo">
       
-  <img src="/assets/vista_derecha.png" alt="logo">
+  <img src="../../../assets/vista_derecha.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -101,7 +108,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              
+              Programación Orientada a Objetos
             
           </span>
         </div>
@@ -204,7 +211,7 @@
 
 
   <li class="md-tabs__item">
-    <a href="/." class="md-tabs__link">
+    <a href="../../.." class="md-tabs__link">
       Home
     </a>
   </li>
@@ -219,7 +226,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="/cv_castellano/" class="md-tabs__link">
+      <a href="../../../cv_castellano/" class="md-tabs__link">
         Curriculum
       </a>
     </li>
@@ -259,9 +266,9 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="/." title="Slarrauri" class="md-nav__button md-logo" aria-label="Slarrauri" data-md-component="logo">
+    <a href="../../.." title="Slarrauri" class="md-nav__button md-logo" aria-label="Slarrauri" data-md-component="logo">
       
-  <img src="/assets/vista_derecha.png" alt="logo">
+  <img src="../../../assets/vista_derecha.png" alt="logo">
 
     </a>
     Slarrauri
@@ -289,7 +296,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/." class="md-nav__link">
+      <a href="../../.." class="md-nav__link">
         Home
       </a>
     </li>
@@ -336,7 +343,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/cv_castellano/" class="md-nav__link">
+      <a href="../../../cv_castellano/" class="md-nav__link">
         Castellano
       </a>
     </li>
@@ -350,7 +357,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/cv_english/" class="md-nav__link">
+      <a href="../../../cv_english/" class="md-nav__link">
         English
       </a>
     </li>
@@ -386,12 +393,216 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objects" class="md-nav__link">
+    Objects
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acceder-a-sus-propiedades" class="md-nav__link">
+    Acceder a sus Propiedades
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodos" class="md-nav__link">
+    Métodos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#this-keyword" class="md-nav__link">
+    This Keyword
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#constructor" class="md-nav__link">
+    Constructor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#crear-un-objeto-con-un-constructors" class="md-nav__link">
+    Crear un objeto con un Constructors
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#constructors-parameters" class="md-nav__link">
+    Constructors Parameters
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instanceof" class="md-nav__link">
+    instanceof
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
-  <h1>404 - Not found</h1>
+                
 
+  
+
+
+
+<h1 id="programacion-orientada-a-objetos">Programación Orientada a Objetos<a class="headerlink" href="#programacion-orientada-a-objetos" title="Permanent link">&para;</a></h1>
+<h2 id="objects">Objects<a class="headerlink" href="#objects" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Objetos</p>
+<ul>
+<li>Los objetos en JS son usados para modelar objetos reales</li>
+<li>Usan Dot Notation  </li>
+<li>tiene propiedades y metodos</li>
+</ul>
+</div>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="kd">let</span> <span class="nx">dog</span> <span class="o">=</span> <span class="p">{</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>  <span class="nx">name</span><span class="o">:</span> <span class="s2">&quot;Poppy&quot;</span><span class="p">,</span>
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>  <span class="nx">numLegs</span><span class="o">:</span> <span class="mf">4</span>
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="p">};</span>
+</code></pre></div>
+<h2 id="acceder-a-sus-propiedades">Acceder a sus Propiedades<a class="headerlink" href="#acceder-a-sus-propiedades" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Acceder a sus Propiedades</p>
+<ul>
+<li>Usa dot notation</li>
+</ul>
+</div>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="nx">dogName</span> <span class="o">=</span> <span class="nx">dog</span><span class="p">.</span><span class="nx">name</span><span class="p">;</span>
+<a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">dogName</span><span class="p">);</span> <span class="c1">// Poppy</span>
+</code></pre></div>
+<h2 id="metodos">Métodos<a class="headerlink" href="#metodos" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<ul>
+<li>Los Métodos son funciones que agregan distintos comportamientos</li>
+</ul>
+</div>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="kd">let</span> <span class="nx">dog</span> <span class="o">=</span> <span class="p">{</span>
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a>  <span class="nx">name</span><span class="o">:</span> <span class="s2">&quot;Poppy&quot;</span><span class="p">,</span>
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a>  <span class="nx">numLegs</span><span class="o">:</span> <span class="mf">4</span><span class="p">,</span>
+<a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a>  <span class="nx">sayLegs</span><span class="o">:</span> <span class="kd">function</span><span class="p">(){</span><span class="k">return</span> <span class="s2">&quot;This dog has &quot;</span> <span class="o">+</span> <span class="nx">dog</span><span class="p">.</span><span class="nx">numLegs</span> <span class="o">+</span> <span class="s2">&quot; legs.&quot;</span><span class="p">;}</span>
+<a id="__codelineno-2-5" name="__codelineno-2-5" href="#__codelineno-2-5"></a><span class="p">};</span>
+<a id="__codelineno-2-6" name="__codelineno-2-6" href="#__codelineno-2-6"></a>
+<a id="__codelineno-2-7" name="__codelineno-2-7" href="#__codelineno-2-7"></a><span class="nx">dog</span><span class="p">.</span><span class="nx">sayLegs</span><span class="p">();</span>
+</code></pre></div>
+<h2 id="this-keyword">This Keyword<a class="headerlink" href="#this-keyword" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<ul>
+<li>Podemos usar <code>this</code> para hacer referencia al nombre del objeto y evitar errores, si el nombre del objeto cambia en el futuro.</li>
+<li>Esto nos permite tener un código limpio y reusable.</li>
+</ul>
+</div>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="kd">let</span> <span class="nx">dog</span> <span class="o">=</span> <span class="p">{</span>
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a>  <span class="nx">name</span><span class="o">:</span> <span class="s2">&quot;Poppy&quot;</span><span class="p">,</span>
+<a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a>  <span class="nx">numLegs</span><span class="o">:</span> <span class="mf">4</span><span class="p">,</span>
+<a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a>  <span class="nx">sayLegs</span><span class="o">:</span> <span class="kd">function</span><span class="p">(){</span><span class="k">return</span> <span class="s2">&quot;This dog has &quot;</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">numLegs</span> <span class="o">+</span> <span class="s2">&quot; legs.&quot;</span><span class="p">;}</span>
+<a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a><span class="p">};</span>
+<a id="__codelineno-3-6" name="__codelineno-3-6" href="#__codelineno-3-6"></a>
+<a id="__codelineno-3-7" name="__codelineno-3-7" href="#__codelineno-3-7"></a><span class="nx">dog</span><span class="p">.</span><span class="nx">sayLegs</span><span class="p">();</span>
+</code></pre></div>
+<h2 id="constructor">Constructor<a class="headerlink" href="#constructor" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<ul>
+<li>Los <code>Constructor</code> son funciones para crear objetos  </li>
+<li>Pensalos como el plano (Blueprint) de los objetos</li>
+</ul>
+</div>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="kd">function</span> <span class="nx">Dog</span><span class="p">()</span> <span class="p">{</span>
+<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">name</span> <span class="o">=</span> <span class="s2">&quot;Poppy&quot;</span><span class="p">;</span>
+<a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">color</span> <span class="o">=</span> <span class="s2">&quot;red&quot;</span><span class="p">;</span>
+<a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">numLegs</span> <span class="o">=</span> <span class="mf">5</span><span class="p">;</span>
+<a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a><span class="p">}</span>
+</code></pre></div>
+<div class="admonition tip">
+<p class="admonition-title">Buenas Prácticas</p>
+<ul>
+<li>Los <code>Constructors</code> se definen con la primera letra de sus palabras en Mayusculas este formato se llama <code>CamelCase</code>.  </li>
+<li>Los <code>Constructors</code> usan la keyword <code>this</code> para setear las propiedades del objeto que se creara. <code>this</code> hace referencia al nuevo objeto que se creara.  </li>
+<li>Los <code>Constructors</code> definen propiedades y comportamientos en vez de devolver un valor como otras funciones.  </li>
+</ul>
+</div>
+<h2 id="crear-un-objeto-con-un-constructors">Crear un objeto con un Constructors<a class="headerlink" href="#crear-un-objeto-con-un-constructors" title="Permanent link">&para;</a></h2>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="kd">function</span> <span class="nx">Dog</span><span class="p">()</span> <span class="p">{</span>
+<a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">name</span> <span class="o">=</span> <span class="s2">&quot;Poppy&quot;</span><span class="p">;</span>
+<a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">color</span> <span class="o">=</span> <span class="s2">&quot;red&quot;</span><span class="p">;</span>
+<a id="__codelineno-5-4" name="__codelineno-5-4" href="#__codelineno-5-4"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">numLegs</span> <span class="o">=</span> <span class="mf">4</span><span class="p">;</span>
+<a id="__codelineno-5-5" name="__codelineno-5-5" href="#__codelineno-5-5"></a><span class="p">}</span>
+<a id="__codelineno-5-6" name="__codelineno-5-6" href="#__codelineno-5-6"></a>
+<a id="__codelineno-5-7" name="__codelineno-5-7" href="#__codelineno-5-7"></a><span class="kd">let</span> <span class="nx">perro</span> <span class="o">=</span> <span class="ow">new</span> <span class="nx">Dog</span><span class="p">();</span>
+</code></pre></div>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<ul>
+<li>Fijate que se usa la keyword <code>new</code> antes de la llamada al <code>constructor</code></li>
+<li><code>This</code> le dice a JS que cree una nueva instancia del objeto. De lo contrario da resultados inesperados, a lo JS.</li>
+</ul>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<ul>
+<li>Como cualquier objeto sus propiedades pueden ser accedidas y modificadas.</li>
+</ul>
+</div>
+<h2 id="constructors-parameters">Constructors Parameters<a class="headerlink" href="#constructors-parameters" title="Permanent link">&para;</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<ul>
+<li>Los <code>Parameters</code> (parametros) sirven para inicializar las propiedades del constructor</li>
+</ul>
+</div>
+<div class="highlight"><span class="filename">Sample</span><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="kd">function</span> <span class="nx">Dog</span><span class="p">(</span><span class="nx">name</span><span class="p">,</span> <span class="nx">color</span><span class="p">)</span> <span class="p">{</span>
+<a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">name</span> <span class="o">=</span> <span class="nx">name</span><span class="p">;</span>
+<a id="__codelineno-6-3" name="__codelineno-6-3" href="#__codelineno-6-3"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">color</span> <span class="o">=</span> <span class="nx">color</span><span class="p">;</span>
+<a id="__codelineno-6-4" name="__codelineno-6-4" href="#__codelineno-6-4"></a>  <span class="k">this</span><span class="p">.</span><span class="nx">numLegs</span> <span class="o">=</span> <span class="mf">4</span><span class="p">;</span>
+<a id="__codelineno-6-5" name="__codelineno-6-5" href="#__codelineno-6-5"></a><span class="p">}</span>
+<a id="__codelineno-6-6" name="__codelineno-6-6" href="#__codelineno-6-6"></a>
+<a id="__codelineno-6-7" name="__codelineno-6-7" href="#__codelineno-6-7"></a><span class="kd">let</span> <span class="nx">caniche</span> <span class="o">=</span> <span class="ow">new</span> <span class="nx">Dog</span><span class="p">(</span><span class="s2">&quot;Killer&quot;</span><span class="p">,</span> <span class="s2">&quot;white&quot;</span><span class="p">);</span>
+</code></pre></div>
+<h2 id="instanceof">instanceof<a class="headerlink" href="#instanceof" title="Permanent link">&para;</a></h2>
+
+              
             </article>
           </div>
         </div>
@@ -451,10 +662,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "/", "features": ["content.code.annotate", "navigation.indexes", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "/assets/javascripts/workers/search.d5a3c699.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.code.annotate", "navigation.indexes", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../../assets/javascripts/workers/search.d5a3c699.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
     
     
-      <script src="/assets/javascripts/bundle.897f3768.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.897f3768.min.js"></script>
       
     
   </body>
