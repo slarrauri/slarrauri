@@ -175,10 +175,6 @@ Febrero 2005 – Diciembre 2006
 !!! info 
     Nunca parar de aprender es algo que me apasiona por lo que sigo realizando cursos y capacitaciones constantemente, entre ellos: 
 
-#### Introducción al Desarrollo Blockchain: Smart Contracts  - 2022
-Platzi  
-https://platzi.com/p/slarrauri/course/2561-smart-contracts/diploma/detalle/
-
 #### Prework Desarrollo de Aplicaciones Blockchain  - 2022
 Platzi  
 https://platzi.com/p/slarrauri/curso/2559-prework-blockchain/diploma/detalle/
