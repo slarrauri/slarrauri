@@ -75,3 +75,86 @@ Febrero 2021 – Actualidad
 !!! tip "Tecnologías Más usadas"
     Flutter, Dart, Git, Scrum, Bitrise, AppCenter, Firebase, DevOps, CD/CD entre otras.
 !!! cite "<a href="http://coderio.co/" target="_blank">coderio.co</a>"
+
+
+<!------------------------------------------------------------------------------------>
+###  Landhi S.A.
+Enero 2022 – Actualidad
+!!! info "Landhi is an online community that connects home improvement professionals, homeowners, and home & decor stores through visual search technology"
+!!! note "Puesto: Colaboración como Flutter Tech Lead / Senior Flutter Developer"
+!!! summary "Entre mis responsabilidades se encuentran:"
+    - Entre mis responsabilidades y tareas se encuentran:
+    - El desarrollo de la documentación técnica del desarrollo.
+    - La realización de la aplicación mobile (Android/Iphone) de la empresa con Flutter.
+    - La gestión del equipo de desarrollo Flutter
+    - El Deploy de la apps Flutter en las tiendas (Android/Apple)
+    - La colaboración con otras areas de la empresa aportando mis conocimientos y experiencia.
+!!! tip "Tecnologías Más usadas"
+    Flutter, Dart, Scrum, Bitrise, AppCenter, Git, AppCenter, Firebase... 
+!!! cite "<a href="http://landhi.com.ar/" target="_blank">landhi.com.ar</a>"
+
+<!------------------------------------------------------------------------------------>
+### PRESSA S.A. 
+Junio 2017 – Agosto 2020
+!!! info "**Pressa** es Logística Satelital y Seguimiento de vehículos. "
+!!! note "Puesto: Semi Senior Fullstack developer"
+!!! summary "Entre mis responsabilidades se encuentran:"
+    - Full Stack Developer / Project Manager
+    - Desarrollo y Gestión de las aplicaciones Android/Iphone de la empresa. 
+    - Desarrollo de micro servicios en PHP para clientes.
+    - Mantenimiento y creación de nuevos servicios para el sistema web de seguimiento de vehículos.
+    - Comunicación con clientes recaudando información sobre sus necesidades para la creación de nuevos productos dentro de la compañía.
+!!! tip "Tecnologías Más usadas"
+    Bootstrap, Javascript, Jquery, PHP, ElasticSearch, Mysql, Python, Cordova, HTML, CSS, MongoDB, AWS, Linux Ubuntu Server, Flutter, Dart.
+!!! cite "<a href="http://pressa.com.ar/" target="_blank">pressa.com.ar</a>"
+<!------------------------------------------------------------------------------------>
+### Slarrauri 
+Septiembre 2010 - Junio 2017 (CBA)
+!!! info "**Slarrauri** es mi carrera como Profesional Freelance, emprendedor, Open Source"
+!!! note "Puesto: Emprendedor y Programador"
+!!! summary "Entre los proyectos que he realizado destaco:"
+    - Fundador, Desarrollador, diseñador y Escritor del Sito Web FacebookEmpresas.com, el mismo brindaba información sobre como las empresas podrían explotar Facebook para su beneficio. (2009)
+    - Project Manager y Desarrollador de Betonimous.com, Aplicación Móvil que mediante IA intentaba pronosticar resultados deportivos. (2016)
+    - Creación y puesta en Marcha de sistema de VideoChat para particulares Cameruser.com (2007).
+    - Desarrollador de sitios web de variadas temáticas utilizando Wordpress. 
+!!! tip "Tecnologías Más usadas"
+    Wordpress, Bootstrap, Javascript, Jquery, PHP, Mysql, HTML, CSS, Cpanel, Git, Flutter, Dart, WebRtc.
+!!! cite "<a href="http://slarrauri.ar" target="_blank">slarrauri.ar</a>"
+
+<!------------------------------------------------------------------------------------>
+### IGS – Sistemas 
+Diciembre 2008 – Agosto 2010
+!!! info "**IGS-Sistemas** es Desarrollo de sistemas y Realidad Aumentada. "
+!!! note "Puesto: Project Manager"
+!!! summary "Entre mis responsabilidades se encuentran:"
+    - Definición de necesidades y propuesta de soluciones de cada proyecto.
+    - Coordinación de tareas de los departamentos de diseño, programación y contenidos. 
+    - Seguimiento de la estrategia, funcionalidades y objetivos del proyecto 
+    - Comunicación con clientes
+    - Definición de presupuesto.
+!!! tip "Tecnologías Más usadas"
+    PMBOK, SCRUM. 
+!!! cite "<a href="http://igs.com.ar/" target="_blank">igs.com.ar</a>"
+
+<!------------------------------------------------------------------------------------>
+### Gromac 
+Febrero 2006 – Enero 2008 (España)
+!!! info "**Gromac** es Sistemas Informáticos"
+!!! note "Puesto: Semi Senior Fullstack Developer"
+!!! summary "Entre mis responsabilidades se encuentran:"
+    - Desarrollador Web
+    - Desarrollo de sitios y blogs para el mercado europeo.
+    - Realización y puesta en marcha de campañas de e-marketing para los mismos.
+!!! tip "Tecnologías Más usadas"
+    PHP, HTML, CSS, Wordpress, Joomla.  
+<!------------------------------------------------------------------------------------>
+### Grupo 2 Lomas
+Febrero 2005 – Diciembre 2006
+!!! info "**Grupos 2 Lomas** es un Sistema de pago online"
+!!! note "Puesto: junior Fullstack Developer"
+!!! summary "Entre mis responsabilidades se encuentran:"
+    - Desarrollador Web
+    - Desarrollo de Medio de Cobro Online. (DataCard, DataPago) 
+    - Desarrollo y puesta en marcha del plan de marketing online y posicionamiento web.
+!!! tip "Tecnologías Más usadas"
+    Wordpress, Joomla, PHP, HTML, CSS. 
