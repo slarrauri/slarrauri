@@ -173,3 +173,86 @@ Febrero 2005 – Diciembre 2006
 ### Instituto Secundario Dr. Manuel Lucero
 - Titulo: Bachiller Técnico Químico.  
 - Finalizado Diciembre 1998  
+
+## ☕️ CURSOS Y CAPACITACIONES
+<!--------------------------------------------->
+!!! info 
+    Nunca parar de aprender es algo que me apasiona por lo que sigo realizando cursos y capacitaciones constantemente, entre ellos: 
+
+#### Introduction al Desarrollo Blockchain: Smart Contracts  - 2022
+Platzi  
+https://platzi.com/p/slarrauri/course/2561-smart-contracts/diploma/detalle/
+
+#### Prework Desarrollo de Aplicaciones Blockchain  - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2559-prework-blockchain/diploma/detalle/
+
+#### Ethereum para Developers  - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2560-ethereum-developers/diploma/detalle/
+
+#### Github Actions - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2683-github-actions/diploma/detalle/
+
+#### Fundamentos de la Web3 - 2022
+Platzi  
+https://platzi.com/p/slarrauri/curso/2727-fundamentos-web3/diploma/detalle/
+ 
+#### Curso de Introducción a Solidity - December 2021
+https://platzi.com/p/slarrauri/course/2576-solidity/diploma/detalle/ 
+
+#### The Complete Flutter Development Bootcamp with Dart Diciembre 2019
+Udemy
+
+#### Negociación y resolución de conflictos Enero 2014 - Diciembre 2014
+Open2Study - Macquarie Graduate School of Management
+No está más disponible. 
+
+#### La experiencia del usuario en la Web UX/UI Enero 2014 - Diciembre 2014
+Open2Study no está más disponible. 
+
+#### Principios de la Gestión de Proyectos Enero 2014 - Diciembre 2014
+Polytechnic West – Open2Study Ya no está más disponible. 
+
+#### Pensamiento Científico Enero 2014 - Diciembre 2014
+Universidad Nacional Autónoma de México – Coursera.org 
+https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971480~5039757/pdf
+
+#### Gamification Course Enero 2014 - Diciembre 2014
+University of Pennsylvania – Coursera.org
+https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971638~5039757/pdf
+
+#### Programación Neurolingüística Septiembre 2011 - Junio 2012
+Grupo Ases Capacitación Empresarial)
+
+#### #### Dinámicas Sociales Septiembre 2011 - Junio 2012
+Grupo Ases Capacitación Empresarial 
+
+#### Clínica de Ventas Enero 2010 - Diciembre 2011
+Creí que Sabías
+
+#### Liderazgo Enero 2010 - Diciembre 2011
+Grupo Ases Capacitación Empresarial
+
+#### Seminario Calidad Norma (ISO 9001) Enero 2010 - Diciembre 2011
+Neo-Consultores
+
+#### Ingles Intensivo Nivel 2 Septiembre 2009 - Junio 2010
+Step Ahead
+
+#### PNL Personal Enero 2005 - Diciembre 2006
+Magdalena Hessel Alonso
+
+#### Técnico Diseño Gráfico Enero 2001 - Diciembre 2002
+AES Computación
+
+#### Técnico Diseño Web Enero 2001 - Diciembre 2002
+AES Computación
+
+#### Técnico Marketing y Comercialización Enero 1998 - Diciembre 1999
+Mercadotecnia Consultores
+
+#### Técnico Publicidad e Imagen Corporativa Enero 1998 – Diciembre
+Mercadotecnia Consultores
+
