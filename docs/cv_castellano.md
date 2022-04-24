@@ -158,3 +158,19 @@ Febrero 2005 – Diciembre 2006
     - Desarrollo y puesta en marcha del plan de marketing online y posicionamiento web.
 !!! tip "Tecnologías Más usadas"
     Wordpress, Joomla, PHP, HTML, CSS. 
+
+
+## 📝 EDUCACIÓN <!---------------------------------------------------------------->
+
+### Licenciatura en Filosofía 
+      - Universidad Nacional Córdoba.
+      - Incompleto: 2 Años de Cursados 2016. 
+
+### Tecnicatura superior en programación 
+      - Universidad Tecnológica Nacional
+      - Incompleto Junio 2003
+
+### Instituto Secundario Dr. Manuel Lucero
+      - Titulo: Bachiller Técnico Químico.
+      - Finalizado Diciembre 1998
+
