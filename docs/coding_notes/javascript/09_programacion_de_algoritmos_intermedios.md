@@ -1,1 +1,0 @@
-# Programación de Algoritmos Intermedios
