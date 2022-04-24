@@ -163,13 +163,13 @@ Febrero 2005 – Diciembre 2006
 ## 📝 EDUCACIÓN <!---------------------------------------------------------------->
 
 ### Licenciatura en Filosofía 
-    - Universidad Nacional Córdoba.
-    - Incompleto: 2 Años de Cursados 2016. 
+- Universidad Nacional Córdoba.  
+- Incompleto: 2 Años de Cursados 2016.   
 
 ### Tecnicatura superior en programación 
-    - Universidad Tecnológica Nacional
-    - Incompleto Junio 2003
+- Universidad Tecnológica Nacional  
+- Incompleto Junio 2003  
 
 ### Instituto Secundario Dr. Manuel Lucero
-    - Titulo: Bachiller Técnico Químico.
-    - Finalizado Diciembre 1998
+- Titulo: Bachiller Técnico Químico.  
+- Finalizado Diciembre 1998  
