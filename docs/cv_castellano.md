@@ -8,11 +8,12 @@ title: Sebastian Larrauri Curriculum Vitae Español
 
 ## 🍳 RESUMEN HABILIDADES
 !!! summary
-    🔭 Actualmente estoy trabajando desarrollando Flutter/Dart Apps  
-    🌱 Estoy Aprendiendo Blockchain, Solidity, DApps and Web3.0  
-    🤔 Busco Colaboradores para la Flutter Developers Guide  
+
+    🔭 Actualmente estoy trabajando Líder Técnico Flutter/Dart  
+    🌱 Estoy Aprendiendo Blockchain, Solidity, Engineering Manager    
+    🤔 Busco oportunidades como Software Engineering Manager  
     ⚡ Fun fact: Fan of the Birra!    
-    ❤️ Love Tech Industry  
+    ❤️ Love Tech Industry   
 
 !!! Info "Información de Contacto"
 
@@ -23,11 +24,13 @@ title: Sebastian Larrauri Curriculum Vitae Español
     🐣 https://twitter.com/slarrauri  
 
 ### Habilidades Técnicas
-Estas son algunas de las tecnologías que mas he usado a lo largo de mi carrera que comenzó allá por el año 2003:
+Estas son algunas de las tecnologías que he usado a lo largo de mi carrera que comenzó allá por el año 2003:
 !!! note ""
+
     - Flutter, 4 años
     - Dart, 4 años
     - Solidity 1 año
+    - Python 1 año
     - HTML, CSS, Javascript, 8 años
     - Bootstrap 8 años
     - PHP, 8 años
@@ -43,11 +46,13 @@ Estas son algunas de las tecnologías que mas he usado a lo largo de mi carrera 
 
 ### Habilidades Blandas
 !!! note ""
+
     Soy una persona que se adapta rápidamente, que aprende rápido, autodidacta y capaz de auto gestionarse eficientemente. 
     Me encanta aprender y experimentar con cosas nuevas. 
 
 ### Idiomas
 !!! note ""
+
     Español: Nativo  
     English: Intermediate B1 Level  
 

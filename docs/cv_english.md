@@ -7,9 +7,9 @@ title: Sebastian Larrauri Curriculum Vitae English
 ## 🍳 SKILLS SUMMARY
 !!! summary
 
-    🔭 I’m currently working on Flutter/Dart Apps  
-    🌱 I’m currently learning Blockchain, Solidity, DApps,  and Web3.0  
-    🤔 I’m looking for help with The Flutter Developers Guide  
+    🔭 I’m currently working as Tech Lead Flutter/Dart  
+    🌱 I’m currently learning Blockchain, Engineer Management   
+    🤔 I’m looking for opportunities as Software Engineering Manager 
     ⚡ Fun fact: Fan of the Birra!  
     ❤️ Love Tech Industry  
 
@@ -26,9 +26,11 @@ title: Sebastian Larrauri Curriculum Vitae English
 These are some of the technologies that I use in the developments in which I have worked throughout the 20 years of experience in the Tech Industry:
 
 !!! note ""
+
     - Flutter, 4 years
     - Dart, 4 years 
     - Solidity 1 year
+    - Python 1 year
     - HTML, CSS, Javascript, 8 years
     - Bootstrap 8 years
     - PHP, 8 years
@@ -44,11 +46,13 @@ These are some of the technologies that I use in the developments in which I hav
 
 ### Soft Skills
 !!! note ""
+
     I am a person who adapts quickly, is a fast learner, is self-taught and is capable of efficient self-management. I love learning and experimenting with new things.
 
 ### Languages
 !!! note ""
-    Spanish: Nativo
+
+    Spanish: Nativo  
     English: Intermediate B1 Level  
 
 ## 👨‍💻 EXPERIENCE <!---------------------------------------------------------->
@@ -60,19 +64,19 @@ February 2021 – Present
 !!! summary "Among my responsibilities and daily tasks are:"
     
     - The creation of scalable and maintainable code for various applications made in Flutter & Dart.:
-        - Crane App
+        - Uber like App
         - Augmented Reality with IA App
         - Delivery App
-        - App de turnos (Flutter Web)
+        - Schedule (Flutter Web)
     - The management of Interdisciplinary teams to carry out projects for various clients.
     - Apply and verify the use of good practices
     - Carrying out Code Review of the code developed by the collaborators.
-    - The integration and implementation of the projects carried out. (DevOps, CD / CI).
+    - The integration and implementation of the projects. (DevOps, CD / CI).
     - The realization of technical proposals for the projects to be carried out.
     - The realization of the guides and manuals of the Flutter team on Best Practices, Style Conventions, 
       Use of Git and Git Flow.
     - Collaboration with other areas such as Design, QA, Functional Analysis, Development, 
-      contributing my experience and how-to-know, in the improvement of their processes and developments.
+      contributing my experience and know-how, in the improvement of their processes.
 
 
 !!! tip "Technologies Most Used"
@@ -114,10 +118,10 @@ September 2010 - June 2017
 !!! info "**Slarrauri** is my career as a Freelancer"
 !!! note "Position: Developer"
 !!! summary "Among my responsibilities and daily tasks are:"
-    - Founder, Developer, designer and Writer of the FacebookEmpresas.com website, he provided information on how companies could exploit Facebook for their benefit. ( 2009 )
-    - Project Manager and Developer of Betonimous.com , a Mobile Application that, using AI, tried to predict sports results to place the corresponding bets. ( 2016 )
-    - Creation and start-up of a VideoChat system for individuals Cameruser.com (2007).
-    - Developer of websites of various themes using Wordpress.
+    - Founder, developer, designer and editor of the website FacebookEmpresas.com, the site provided information on how companies could exploit Facebook for commercial purposes. (2009)
+    - Project Manager and Developer of Betonimous.com, a Mobile Application that through AI tried to predict sports results to place the corresponding bets. (2016)
+    - Creation and implementation of a VideoChat system for individuals Cameruser.com (2007).
+    - Website developer using Wordpress.
 
 !!! tip "Technologies Most Used"
     Wordpress, Bootstrap, Javascript, Jquery, PHP, Mysql, HTML, CSS, Cpanel, Git, Flutter, Dart, WebRtc.
