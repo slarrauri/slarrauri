@@ -9,7 +9,7 @@ title: Sebastian Larrauri Curriculum Vitae English
 
     🔭 I’m currently working as Tech Lead Flutter/Dart  
     🌱 I’m currently learning Blockchain, Engineer Management   
-    🤔 I’m looking for opportunities as Software Engineering Manager 
+    🤔 I’m looking for opportunities as Software Engineering Manager  
     ⚡ Fun fact: Fan of the Birra!  
     ❤️ Love Tech Industry  
 
