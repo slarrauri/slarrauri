@@ -188,6 +188,10 @@ February 2005 - December 2006
 !!! info 
     Never stop learning is something that I am passionate about, so I continue to constantly take courses and trainings, including:
 
+#### Google Professional Certificate Foundations of Project Management 
+Google - Coursera   
+https://www.coursera.org/account/accomplishments/certificate/R659DW4S746Y
+
 #### Introduction to Blockchain Development: Smart Contracts  - 2022
 Platzi  
 https://platzi.com/p/slarrauri/course/2561-smart-contracts/diploma/detalle/
