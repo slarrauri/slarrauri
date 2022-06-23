@@ -5,11 +5,12 @@
 site_name: Slarrauri
 site_url: https://slarrauri.ar/
 site_author: Sebastian Larrauri
-site_h1: Flutter / Dart / Solidity Developer
+site_h1: Software Developer
 site_description: >-
-  Bienvenido a mi sitio web personal, Mi nombre es Sebastian Larrauri,
-  Soy Desarrollador de Software y una apasionado de la tecnología.
-  Actualmente estoy desarrollando con Flutter, Dart y Solidity
+  Bienvenido a mi web, Mi nombre es Sebastian Larrauri.
+  Soy un Desarrollador de Software apasionado por la tecnología.
+  Actualmente estoy desarrollando bots para comercios 
+  y empresas utilizando Inteligencia Artificial. 
 
 # Repository
 repo_name: slarrauri/slarrauri
