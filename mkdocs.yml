@@ -15,7 +15,7 @@ site_description: >-
 # Repository
 repo_name: slarrauri/slarrauri
 repo_url: https://github.com/slarrauri/slarrauri
-edit_uri: ""
+edit_uri: "" 
 
 # Copyright
 copyright: Copyright &copy; 2000 - 2022 Sebastian Larrauri
