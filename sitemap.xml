@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://slarrauri.ar/</loc>
+         <lastmod>2022-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/changelog/</loc>
+         <lastmod>2022-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/cv_castellano/</loc>
+         <lastmod>2022-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/cv_english/</loc>
+         <lastmod>2022-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://slarrauri.ar/proyectos/</loc>
+         <lastmod>2022-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
