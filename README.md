@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-Sebastian Larrauri Here! 
+Sebastian Here! 
 
-- 🔭 I’m currently working on Flutter/Dart Apps
-- 🌱 I’m currently learning Blockchain, Solidity, DApps,  and Web3.0
-- 🤔 I’m looking for help with The [Flutter Developers Guide](https://github.com/slarrauri/flutter-developers-guide)
-- 📫 How to reach me: @Slarrauri slarrauri@gmail.com
-- ⚡ Fun fact: Fan of the Birra! 
-- ❤️ Love Tech Industry
-- 💬 Ask me about Tech Industry, Flutter Dart develompment, BlockChain Development. 
-todo add links
+- 🔭 I’m currently contributing in Defiant Wallet. 
+- 🌱 I’m actively collaborating in _Coderio Software Development Company.
+- 🤔 I’m looking for 42 Awesome Software.
+- ⚡ Fun fact: I'm Fan of the Birra, Zambayonny and The Hitchhikers Guide To The Galaxy (Best story ever)
+- ❤️ Love Tech Industry!
+- 💬 Ask me about Tech.
+- 📫 How to reach me: @Slarrauri seba@slarrauri.ar
+
 <!--
 **slarrauri/slarrauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
