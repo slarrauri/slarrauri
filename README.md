@@ -2,13 +2,13 @@
 
 Sebastian Here! 
 
-🔭 Currently I´m Product Owner on flutternewstoolkit.expert
-🌱 I´m learning Inteligencia Artificial
-🧐 Active collaborator on Apeiron.bio 
-🤖 Collaborates with whatai.ar creating IA Prompts
-⚡ Fun fact: Fan of the Birra! 
-👨‍💻 Ask me about Tech, the meaning of life, the universe, and everything else.
-❤️ Love Tech Industry
+🔭 Currently I´m Product Owner on flutternewstoolkit.expert. 
+🌱 I´m learning Inteligencia Artificial. 
+🧐 Active collaborator on Apeiron.bio  
+🤖 Collaborates with whatai.ar creating IA Prompts. 
+⚡ Fun fact: Fan of the Birra!  
+👨‍💻 Ask me about Tech, the meaning of life, the universe, and everything else.  
+❤️ Love Tech Industry. 
 
 
 <!--
